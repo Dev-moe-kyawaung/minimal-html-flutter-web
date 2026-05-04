@@ -1,0 +1,13 @@
+moe-minimal-portfolio/
+├── index.html                 # Main HTML file
+├── styles.css                # All styles
+├── script.js                 # All JavaScript
+├── robots.txt               # SEO
+├── sitemap.xml             # Sitemap
+├── .htaccess               # Server config
+├── manifest.json           # PWA manifest
+├── sw.js                   # Service worker
+├── assets/
+│   ├── favicon.svg
+│   └── profile-og.jpg
+└── README.md
